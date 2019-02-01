@@ -1,0 +1,10 @@
+Package: ics2csv
+Type: Package
+Title: Converts ICS Files to a Flat CSV
+Version: 0.1.0
+Author: Jared Joseph
+Maintainer: Jared Joseph
+Description: This is a simple package with one function to convert ICS files to CSVs.
+License: CC0
+Encoding: UTF-8
+LazyData: true
